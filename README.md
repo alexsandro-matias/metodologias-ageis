@@ -18,12 +18,9 @@ Criado em 2001 – 17 profissionais que essência dos mesmos fundamentos
 
 
 
-# Gestão ágil 
-
-
 # Metodologia e ferramentas ágeis 
 
-# Características 
+## Características 
 - Alinhado com cliente e stakeholders;
 - Auto-organizado e resposável;
 - Multidisciplinar;
@@ -32,7 +29,7 @@ Criado em 2001 – 17 profissionais que essência dos mesmos fundamentos
 - Unido.
 
 
-# Importância da Agilitade no mundo de Tecnologia
+## Importância da Agilitade no mundo de Tecnologia
 - Inovação;
 - Evolução incremental dos projetos;
 - Entregas rápidas X Entregas Veloz;
@@ -42,4 +39,22 @@ Representado pelo anacrônimo VUCA:
 - U incerto
 - C omplexo
 - A mbíguo
+
+# Gerenciamento de Projetos
+## Projeto e Processos
+#### Processo
+- Recorrente e contínuo;
+- replicável;
+- Repetitivo e realizado regularmente.
+Ex: Processo de solicitação de compra de um notebook
+
+#### Projeto
+- Um esforço temporário para atingir um objetivo;
+- O resultado é exclusivo;
+- Tem início e fim bem definidos
+Ex: Projeto de desenvolvimento de um novo modelo de fone de ouvidos de uma marca.
+
+## Diferenças entre o gerenciamento tradicional X Ágil
+Baseado no modelo cascata 
+
 
