@@ -55,6 +55,14 @@ Ex: Processo de solicitação de compra de um notebook
 Ex: Projeto de desenvolvimento de um novo modelo de fone de ouvidos de uma marca.
 
 ## Diferenças entre o gerenciamento tradicional X Ágil
-Baseado no modelo cascata 
+### Baseado no modelo cascata (Cascata | waterfall)
+Para uma etapa ser efetuada a anterior deve ser terminada por completa. Então:
+Análise -> projeto (Design) -> Implementação -> Teste -> Entrega (Manuntenção)
 
+
+![image](https://user-images.githubusercontent.com/26006567/212175401-12f678f4-0b85-405d-a026-5ebdfd7fd710.png)
+
+
+
+Já no modelo 
 
