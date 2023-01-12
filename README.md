@@ -1,2 +1,25 @@
-# metodologias-ageis
-Rascunhos do assuntos abordados no Bootcamp da DIO de Introdução à Cultura Ágil
+•	O QUE É SER ÁGIL?
+Quem é mais rápido trem bala 250 ou guepardo 150, ágil fácil – aplicar o aprendizado e adaptação – e ainda manter uma velocidade alta 
+– rápido: entregar rapidamente, mas está associado a um time estressado. problemas de comunicação – conflitos – metas mirabolantes.
+Ágil – trabalhar em conjunto que entrega de metas mesmo que menores elas são tangíveis validando se o caminho está caminho correto – melhoria contínua.
+MANIFESTO ÁGIL
+Criado em 2001 – 17 profissionais que essência dos mesmos fundamentos 
+4 valores 
+1.	Indivíduos e interações mais que os processos e ferramentas – pessoas, sem burocracias – alinhamento das informações e as conversas.
+2.	Software em funcionamento mais que documentação abrangente – preocupação com o produto entregue ao cliente mais valorizado que as documentações.
+3.	Responder às mudanças mais do que seguir um plano – capacidade de adaptação e a resposta a elas e estar preparado para mudanças. Verificação contínua da efetividade do percurso.
+4.	Colaboração com o cliente mais que negociação de contratos. Papel fundamental para criação de uma solução ou produto.
+12 princípios
+1.	Satisfazer o cliente – através da entrega contínua com valor agregado. 
+2.	Se adequando as mudanças mesmo no fim do desenvolvimento para que o cliente possa tirar vantagens competitivas.
+6	Conversa face a face para que as informações sejam passadas de forma eficaz possível.
+10 simplicidade – arte de maximizar a quantidade de trabalho não realizado é essencial. 
+12 em intervalos regulares, refina e ajusta sua metodologia seu comportamento de acordo.
+
+
+
+•	Gestão ágil 
+•	Metodologia e ferramentas ágeis 
+•	Características 
+
+
