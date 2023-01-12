@@ -1,4 +1,4 @@
-•	O QUE É SER ÁGIL?
+# O QUE É SER ÁGIL?
 Quem é mais rápido trem bala 250 ou guepardo 150, ágil fácil – aplicar o aprendizado e adaptação – e ainda manter uma velocidade alta 
 – rápido: entregar rapidamente, mas está associado a um time estressado. problemas de comunicação – conflitos – metas mirabolantes.
 Ágil – trabalhar em conjunto que entrega de metas mesmo que menores elas são tangíveis validando se o caminho está caminho correto – melhoria contínua.
@@ -18,8 +18,28 @@ Criado em 2001 – 17 profissionais que essência dos mesmos fundamentos
 
 
 
-•	Gestão ágil 
-•	Metodologia e ferramentas ágeis 
-•	Características 
+# Gestão ágil 
 
+
+# Metodologia e ferramentas ágeis 
+
+# Características 
+- Alinhado com cliente e stakeholders;
+- Auto-organizado e resposável;
+- Multidisciplinar;
+- Agrega valor continuamente tanto para os clientes ou para própria equipe através do aprendizado;
+- Estipula métas tangíveis e claras;
+- Unido.
+
+
+# Importância da Agilitade no mundo de Tecnologia
+- Inovação;
+- Evolução incremental dos projetos;
+- Entregas rápidas X Entregas Veloz;
+- Eficiência
+Representado pelo anacrônimo VUCA:
+- V olátil
+- U incerto
+- C omplexo
+- A mbíguo
 
