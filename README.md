@@ -173,3 +173,5 @@ A partir desses objetivos, os Keys Results servirão de referência para indicar
 - Baseadas em indicadore-chave de desempenho (KPIs);
 - Quantitativas;
 - *SMART* - Específicas, Mensuráveis, Atingíveis, Relevantes e Temporais.
+
+Como exemplo 
