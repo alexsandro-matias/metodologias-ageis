@@ -136,4 +136,18 @@ Ciclo PDCA -> planeja -> faz -> teste | mensura -> melhora | incrementa
 
 
 ## Kanban
+É um método que significa da palavra japonesa - "sinal", "placa de sinalização" ou "cartão". Ela serve para definir, gerenciar e melhorar servições que entregam trabalho de conhecimento, como serviços profissionais, atividades criativas e o design de produtos físicos e de software. Foi desenvolvido pela Toyota nos anos 40 para resolver um problemas de gestão de estoque - evitar disperdício - Estoque X Produção X Concorrência X Equilíbrio do mercado. *Princípio Lean*.
+Kanban - Método
+
+No contexto atual é aplicado não apenas nas indústrias, e sim como uma ferramenta de gestão de tarefas nas áreas:
+- Marketing;
+- Prestação de serviços;
+- Desenvolvimentos de Sistemas
+
+Na prática, ela divide nos quadros no status de cada tarefa:
+- *Todo (Para fazer)*;
+- *Doing (executando)*;
+- *Done (feito)*;
+
 ## OKR
+
