@@ -62,7 +62,24 @@ Análise -> projeto (Design) -> Implementação -> Teste -> Entrega (Manuntenç�
 
 ![image](https://user-images.githubusercontent.com/26006567/212175401-12f678f4-0b85-405d-a026-5ebdfd7fd710.png)
 
+Uma das desvantagens deste modelo é que somente depois nas entregas finais que o cliente percebe valor no produto desenvolvido.
+
+Já no modelo Ágil, as entregas são feitas a cada ciclos finais chamados de *sprints* caracterizando entregas menores.
+FIGURA
+Desta forma, o produto final não estará entregue por completo, e sim, de forma incremental
 
 
-Já no modelo 
+Resumindo:
+
+ Cascata (Waterfall)    | Scrum
+| :---                  | :---:      
+| Planjamento Inicial   | Planejamento por Sprints
+| Escopo                | Desenvolvimento iterativo 
+| Custo                 | Desenvolvimento incrementa
+| Cronograma            | Feedbacks de todos envolvidos
+| Entrega no final      | Entregas conínuas.
+
+
+Obviamente, não há modelo melhor, nem pior, dependendo do contexto ou escopo do projeto para aplicação de um outro. O método tradicional pode ser utilizado quando uma etapa depender de outra ou para projetos pequenos que são replicados de outros projetos menores.
+
 
