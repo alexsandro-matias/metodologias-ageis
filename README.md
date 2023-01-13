@@ -112,13 +112,28 @@ Metodologia - O que deve ser feito e o por que, mas o como é receita (passo a p
 #### Product Backlog
 #### Sprint Planning
 #### Sprint Backlog
-#### Scrum Master
+#### Scrum Master - Especialista em Scrum 
 #### Product Owner
-#### Dialy Scrum
-#### Sprint Review
+#### Dialy Scrum - 15 minutos momento inicial do dia de trabalho.
+#### Sprint Review - Check para alinhar as expectativas com os stakeholders
 
 
 
 ## Extreme Programming (XP)
+É um método ágil criado no final da década de 90 para desenvolvimento de software. É uma metodologia que tem como objetivo criar sistemas com alta qualidade, com base em uma __interação próxima com clientes, testagem constante e ciclos de desenvolvimentos curtos, contínuos e incrementais__.
+
+Ciclo PDCA -> planeja -> faz -> teste | mensura -> melhora | incrementa
+
+#### Características do XP
+- Ciclos;
+- "Cerimônias" - Reuniões ou momentos previstos para discussão e testes;
+- Teste;
+- Programação em pares;
+- Feedback;
+- Aproximação com o cliente;
+- Flexibilidade.
+
+
+
 ## Kanban
 ## OKR
