@@ -83,3 +83,8 @@ Resumindo:
 Obviamente, não há modelo melhor, nem pior, dependendo do contexto ou escopo do projeto para aplicação de um outro. O método tradicional pode ser utilizado quando uma etapa depender de outra ou para projetos pequenos que são replicados de outros projetos menores.
 
 
+## Gestão Ágil 
+- Flexível e que se adapta às mundanças;
+- Colaborativa e que gere transparência;
+- Voltada ao aprendizado;
+- Entrega contínua de valor.
