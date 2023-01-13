@@ -150,4 +150,8 @@ Na prática, ela divide nos quadros no status de cada tarefa:
 - *Done (feito)*;
 
 ## OKR
+Método ágil 
+- Objectives
+- Key 
+- Results
 
