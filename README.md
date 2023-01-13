@@ -150,8 +150,26 @@ Na prática, ela divide nos quadros no status de cada tarefa:
 - *Done (feito)*;
 
 ## OKR
-Método ágil 
+Método de gestão ágil que foi criado pelo Ex-CEO da Intel Andrew Grove e tem como objetivo simplificar a forma de encarar os chamados os principais **objetivos estratégicos** de uma empresa. Este método é utilizado pelo Google de 1999. É o anagrama que representa:
+
 - Objectives
 - Key 
 - Results
 
+Tem as seguintes características:
+- Claro;
+- Inspirador;
+- Desafiador
+- Alinhado com a missão do negócio.
+
+Devem ser direcionados para um propósito mais amplo, mas podem conter algumas métricas - aumentar o lucro em 10%
+
+Objetivos - valores - direção
+- Criar uma experiência inesquecível para o cliente em todos os pontos de contato;
+- Crescer as vendas no região sul do país, dominando a região;
+- Torna-se referência nacional e autoridade absoluta na área de Educação em Tecnologia.
+
+A partir desses objetivos, os Keys Results servirão de referência para indicar o progresso em direção ao objetivo principal. Essas chaves devem possuir as seguintes características:
+- Baseadas em indicadore-chave de desempenho (KPIs);
+- Quantitativas;
+- *SMART* - Específicas, Mensuráveis, Atingíveis, Relevantes e Temporais.
