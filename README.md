@@ -88,3 +88,37 @@ Obviamente, não há modelo melhor, nem pior, dependendo do contexto ou escopo d
 - Colaborativa e que gere transparência;
 - Voltada ao aprendizado;
 - Entrega contínua de valor.
+
+
+# Ferramentas das Metodologias Ágeis
+## Framework Scrum
+Framework leve que ajuda pessoas, times e organizações a gerar valor por meio de soluções **adaptativas** para **problemas complexos**. Está fundamentado no empirismo (observação | Ciclo PDCA), ou seja, ciclo de observações. A outra base é o **lean thinking** melhoria contínua com foco na redução de disperdícios de recursos.
+
+### Pilares:
+- Transparência - Todo o processo seja observado por qualquer pessoa a qualquer momento;
+- Inspeção - Aplicar visão crítica dos problemas. Pode ser usada como uma forma de medição do progresso do time e do projeto.
+- Adaptação - Aprendizado e realizando melhorias para se adaptar as etapas (Ciclo PDCA).
+
+### Framework X Metodologia Ágil
+O Scrum é framework é propositalmente incompleto, apenas definindo as partes necessárias para implementar a teoria do Scrum. Em vez de fornecer às pessoas **instruções detalhadas**, as regras do guia do Scrum orientam seus relacionamentos e interações.
+
+
+
+Framework == estrutura ou esqueleto - O que tem ser feito, mas como deve ser feito fica a empresa implementar a sua necessidade.
+Metodologia - O que deve ser feito e o por que, mas o como é receita (passo a passo) padrões.
+
+![image](https://user-images.githubusercontent.com/26006567/212372524-95f92b97-1262-46ea-a862-edbff02f73c6.png)
+
+#### Product Backlog
+#### Sprint Planning
+#### Sprint Backlog
+#### Scrum Master
+#### Product Owner
+#### Dialy Scrum
+#### Sprint Review
+
+
+
+## Extreme Programming (XP)
+## Kanban
+## OKR
