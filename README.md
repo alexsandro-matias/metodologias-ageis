@@ -174,4 +174,4 @@ A partir desses objetivos, os Keys Results servirão de referência para indicar
 - Quantitativas;
 - *SMART* - Específicas, Mensuráveis, Atingíveis, Relevantes e Temporais.
 
-Como exemplo 
+Como exemplo:
